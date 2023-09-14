@@ -1,0 +1,17 @@
+<! DOCTYPE html>
+<html lang="en">
+        <head>
+                <meta charset="UTF-8">
+                <title>basic_index.html</title>
+        </head>
+        <body>
+		<h1>My Tweets</h1>
+    
+    <blockquote class="twitter-tweet">
+        <p lang="en" dir="ltr">This is an embedded tweet from Twitter.</p>
+        <a href="https://twitter.com/YourTwitterHandle/status/1234567890123456789"></a>
+    </blockquote>
+    
+    <p><a href="index.html">Go back to Homepage</a></p>
+        </body>
+</html>
